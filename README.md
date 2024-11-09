@@ -32,11 +32,14 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,spring,postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin" />
     </a>
 </p>
-<p align="center">
+<!-- <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman" />
+    <img src="https://skillicons.dev/icons?i=postman" />
     </a>
+</p> -->
+<p align="center">
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
