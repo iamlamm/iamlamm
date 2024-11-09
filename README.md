@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <div align="left">
 
 - 👋 <i>Hi, I'm <b>Lâm</b></i>
-- 🌱 <i>I am a passionate software developer focusing on <b>backend development</b></i>
+<!-- - 🌱 <i>I am a passionate software developer focusing on <b>backend development</b></i>
 - 👨‍💻 <i>I love working with Python, Java, and Kotlin to create efficient solutions</i>
-- 🚀 <i>I'm looking to collaborate on exciting projects that challenge my skills</i>
+- 🚀 <i>I'm looking to collaborate on exciting projects that challenge my skills</i> -->
 
 </div>
 
