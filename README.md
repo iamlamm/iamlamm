@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+<img align="left" width=100 height=120 src="[URL_ẢNH_ĐẠI_DIỆN_CỦA_BẠN]" alt="profile"/>
+</div>
+
+<div align="left">
+
+- 👋 <i>Hi, I'm <b>Lâm</b></i>
+- 🌱 <i>I am a passionate software developer focusing on <b>backend development</b></i>
+- 👨‍💻 <i>I love working with Python, Java, and Kotlin to create efficient solutions</i>
+- 🚀 <i>I'm looking to collaborate on exciting projects that challenge my skills</i>
+
+</div>
+
+#
+
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,spring,postgres,mysql,mongodb" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman" />
+    </a>
+</p>
