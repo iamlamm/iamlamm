@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-<img align="left" width=100 height=120 src="https://res.cloudinary.com/daull03yv/image/upload/v1741287119/polar_bear_q7xdyz.png" alt="profile"/>
+<img align="left" width=120 height=120 src="https://res.cloudinary.com/daull03yv/image/upload/v1741287119/polar_bear_q7xdyz.png" alt="profile"/>
 </div>
 
 <div align="left">
