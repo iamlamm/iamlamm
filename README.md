@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-<img align="left" width=100 height=120 src="[URL_ẢNH_ĐẠI_DIỆN_CỦA_BẠN]" alt="profile"/>
+<img align="left" width=100 height=120 src="https://res.cloudinary.com/daull03yv/image/upload/v1741286742/boy_dlyqnh.png" alt="profile"/>
 </div>
 
 <div align="left">
